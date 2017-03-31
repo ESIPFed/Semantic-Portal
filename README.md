@@ -13,4 +13,4 @@ Here are some tasks that we can perform in the Semantic Portal:
 •	browse a selection of projects that use Semantic Portal resources <br>
 
 More documentation is found on this 
-<A Href="https://github.com/linepouchard/Semantic-Portal/wiki/home"> Github repo wiki</A>.
+<A Href="https://github.com/ESIPFed/Semantic-Portal/wiki/home"> Github repo wiki</A>.
